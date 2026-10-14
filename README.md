@@ -117,3 +117,29 @@ This project helped me understand how IAM teams manage access and protect organi
 ## Disclaimer
 
 All employee accounts and company information used in this project are fictional. This lab was created for educational and cybersecurity portfolio purposes.
+
+## Lab Screenshots
+
+### 1. Employee Onboarding
+![Employee Accounts](screenshots/01-employee-accounts.png)
+
+### 2. Security Group Management
+![Security Groups](screenshots/02-security-groups.png)
+
+### 3. Role-Based Access Control (RBAC)
+![RBAC Roles](screenshots/03-rbac-roles.png)
+
+### 4. Multifactor Authentication
+![MFA Registration](screenshots/04-mfa-registration.png)
+
+### 5. Failed Sign-in Investigation
+![Failed Sign-in Logs](screenshots/05-failed-signin-logs.png)
+
+### 6. PowerShell Employee Offboarding
+![PowerShell Offboarding](screenshots/06-powershell-employee-offboarding.png)
+
+### 7. Audit Log Verification
+![Audit Log](screenshots/07-offboarding-audit-log.png)
+
+### 8. Final Disabled Account
+![Final Account Status](screenshots/08-disabled-account-final.png)
