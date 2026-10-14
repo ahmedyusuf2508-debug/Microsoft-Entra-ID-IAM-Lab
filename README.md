@@ -8,7 +8,7 @@ I created a fictional company called **SecureTech Solutions** to simulate real-w
 
 The goal was to gain hands-on experience managing user identities, controlling access, investigating sign-in activity, and securely removing employee access.
 
-## Technologies Used
+## Technologies Usedd
 
 - Microsoft Entra ID
 - Microsoft Azure Portal
